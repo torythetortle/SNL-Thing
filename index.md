@@ -1,11 +1,11 @@
 <html>
-<b>By Tory Lysik<b>
+<b>By Tory Lysik<b> <br>
 
-<b>Your Grandpa's SNL Still Exists. _Ok, Boomer._<b>
+<b>Your Grandpa's SNL Still Exists. _Ok, Boomer._<b><br>
 
-<body> Everyone has that one thing they remember from their childhood that was mysterious, yet comforting. 
-Late Saturday nights I would sometimes crawl into my dad’s bed, afraid of whatever monsters I assumed were under my bed. When I went downstairs I was stopped by one thing— my dad, watching Saturday Night Live. I would instead sit down on the stairwell and watch, with my father completely unaware until he found me in the morning asleep in that same spot. 
-My thing was SNL. While I do not remember the exact jokes, I can remember iconic moments like Tina Fey and Jimmy Fallon on Weekend Update and Britney Spears performing.
+<body> Everyone has that one thing they remember from their childhood that was mysterious, yet comforting. <br>
+Late Saturday nights I would sometimes crawl into my dad’s bed, afraid of whatever monsters I assumed were under my bed. When I went downstairs I was stopped by one thing— my dad, watching Saturday Night Live. I would instead sit down on the stairwell and watch, with my father completely unaware until he found me in the morning asleep in that same spot. <br>
+My thing was SNL. While I do not remember the exact jokes, I can remember iconic moments like Tina Fey and Jimmy Fallon on Weekend Update and Britney Spears performing.<br>
 SNL has changed since those years, but not in ways one might expect. 
 
 <b>Skits<b>
