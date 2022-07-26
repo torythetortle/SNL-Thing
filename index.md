@@ -57,4 +57,3 @@ All of the top words are cynical and more so emotive. These words are also focus
 	
 
 This was dedicated to Kate McKinnon. Bless Her Soul. 
-</html>
