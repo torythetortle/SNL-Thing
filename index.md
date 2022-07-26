@@ -4,7 +4,7 @@
     <title> Your Grandpa's SNL Still Exists. Ok, Boomer. </title>
   </head>
   <body>
-    <h1>By Tory LYsik</h1>  
+    <h1>By Tory Lysik</h1>  
 </body>
 
 # **Your Grandpa's SNL Still Exists. _Ok, Boomer._**
