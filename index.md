@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 # Your Grandpa's SNL Still Exists. Ok, Boomer. 
 
