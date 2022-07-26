@@ -1,37 +1,357 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+  <head>
+    <title> Your Grandpa's SNL Still Exists. Ok, Boomer. </title>
+  </head>
+  <body>
+    <h1>By Tory LYsik</h1>  
+</body>
 
-You can use the [editor on GitHub](https://github.com/torythetortle/SNL-Thing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# **Your Grandpa's SNL Still Exists. _Ok, Boomer._**
+## **By Tory Lysik**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Everyone has that one thing they remember from their childhood that was mysterious, yet comforting. 
+Late Saturday nights I would sometimes crawl into my dad’s bed, afraid of whatever monsters I assumed were under my bed. When I went downstairs I was stopped by one thing— my dad, watching Saturday Night Live. I would instead sit down on the stairwell and watch, with my father completely unaware until he found me in the morning asleep in that same spot. 
+My thing was SNL. While I do not remember the exact jokes, I can remember iconic moments like Tina Fey and Jimmy Fallon on Weekend Update and Britney Spears performing.
+SNL has changed since those years, but not in ways one might expect. 
 
-### Markdown
+### **<b> Skits <b>**
+It is common lore that Andy Samberg created Digital Shorts on SNL. The show started having the sort of MTV music videos that his Lonely Island crew formerly created on YouTube. 
+But when Samberg joined the cast in 2005, he did not create a genre, he changed an old one. 
+The show has always had pre-recorded videos, just not blatant music videos. Before Samberg, there were other pre-recorded shorts otherwise known as “commercials” that existed since the first season. These commercials were not music based but instead made fun of the ads you would normally see on television. While these two types of shorts could be seen as different genres, they have too many similarities not to. 
+While SNL focuses on what's going on in current news, both pre-recorded skits focus on overarching cultural ideas that make less of a statement and more of a simple joke. 
+Samberg changed the “commercials” and brought in an MTV style music video twist. 
+Data shows he in fact popularized the digital shorts. Ratings were significantly lower on these shorts in the years before he came to the cast. In fact, they were the lowest rated portion of the show. He did not create them, but instead modernized them. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe title="SNL Pre-Recorded Skit Ratings by Season" aria-label="Table" id="datawrapper-chart-3tvM4" src="https://datawrapper.dwcdn.net/3tvM4/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="256"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
-```markdown
-Syntax highlighted code block
+### **<b>Overall**<b>
+SNL’s ratings have overall not changed. It is common lore that the show has gotten worse with time, but it has not when looking at reviews. 
+This data leads to a few points…
+The average rating, no matter what age, was six. 
+The average rating for any season was also six
+Six is an average across these numbers no matter what you look at. This is lower than the average overall rating on the website, which is a seven. 
 
-# Header 1
-## Header 2
-### Header 3
+<iframe title="Average Rating For SNL Seasons" aria-label="Table" id="datawrapper-chart-nJYcU" src="https://datawrapper.dwcdn.net/nJYcU/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1769"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
-- Bulleted
-- List
+### **<b>Words and Phrases**<b>
+While the show has conflicting 
+Out of the over 48,000 SNL reviews on IMDB, there were some words used more consistently over others.
+***If a word was used more than 3000 times, it states 3000+. This was because my computer would freeze after this point in the analysis.***
+All of the top words are cynical and more so emotive. These words are also focused more on things outside of the political arena, something SNL is typically criticized for being too deep in. While the show has their first skit always being about current politics, people generally focused more on emotive language in general. Words that point to politics like “politically correct” or “cancel culture” are much farther down.
+<!-- Generated by ai2html v0.111.0 - 2022-07-25 13:28 -->
+<!-- ai file: nxlcH-most-repeated-words-in-imdb-ratings-rgb.svg -->
+<style media="screen,print">
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box ,
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box p {
+		margin:0;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:14px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:12px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle0 {
+		font-weight:bold;
+		line-height:34px;
+		height:34px;
+		font-size:29px;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle1 {
+		line-height:17px;
+		height:17px;
+		font-size:14px;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle2 {
+		height:14px;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle3 {
+		line-height:12px;
+		height:12px;
+		font-size:10px;
+		color:rgb(255,255,255);
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle4 {
+		height:14px;
+		color:rgb(255,255,255);
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle5 {
+		line-height:13px;
+		height:13px;
+		font-size:11px;
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle6 {
+		line-height:13px;
+		height:13px;
+		font-size:11px;
+		color:rgb(255,255,255);
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle7 {
+		line-height:13px;
+		height:13px;
+		font-size:11px;
+		color:rgb(136,136,136);
+	}
+	#g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1 .g-pstyle8 {
+		line-height:13px;
+		height:13px;
+		letter-spacing:-0.272em;
+		font-size:11px;
+		color:rgb(136,136,136);
+	}
 
-1. Numbered
-2. List
+</style>
 
-**Bold** and _Italic_ and `Code` text
+<div id="g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-box" class="ai2html">
 
-[Link](url) and ![Image](src)
-```
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1" class="g-artboard" style="max-width: 484px;max-height: 976px" data-aspect-ratio="0.496" data-min-width="0">
+<div style="padding: 0 0 201.6322% 0;"></div>
+		<img id="g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1-img" class="g-nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1-img g-aiImg" alt="" src="nxlcH-most-repeated-words-in-imdb-ratings-rgb_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-exportSvg g-aiAbs g-aiPointText" style="top:2.7888%;margin-top:-20.2px;left:1.759%;width:479px;">
+			<p class="g-pstyle0">Most Repeated Words in IMDB Ratings</p>
+		</div>
+		<div id="g-ai0-2" class="g-exportSvg g-aiAbs g-aiPointText" style="top:4.896%;margin-top:-9.8px;left:1.2286%;width:368px;">
+			<p class="g-pstyle1">The most used descriptive words or phrases in all of the</p>
+		</div>
+		<div id="g-ai0-3" class="g-exportSvg g-aiAbs g-aiPointText" style="top:6.638%;margin-top:-9.8px;left:1.2286%;width:207px;">
+			<p class="g-pstyle1"> 48,000 SNL ratings on IMDB.</p>
+		</div>
+		<div id="g-ai0-4" class="g-exportSvg g-aiAbs g-aiPointText" style="top:9.2322%;margin-top:-8.1px;left:13.138%;width:59px;">
+			<p class="g-pstyle2">Sexual</p>
+		</div>
+		<div id="g-ai0-5" class="g-exportSvg g-aiAbs g-aiPointText" style="top:9.4067%;margin-top:-6.8px;left:22.7848%;width:59px;">
+			<p class="g-pstyle3">3,000+</p>
+		</div>
+		<div id="g-ai0-6" class="g-exportSvg g-aiAbs g-aiPointText" style="top:12.4088%;margin-top:-8.1px;left:22.785%;width:59px;">
+			<p class="g-pstyle4">3,000+</p>
+		</div>
+		<div id="g-ai0-7" class="g-exportSvg g-aiAbs g-aiPointText" style="top:12.4088%;margin-top:-8.1px;left:16.3074%;width:43px;">
+			<p class="g-pstyle2">Bad</p>
+		</div>
+		<div id="g-ai0-8" class="g-exportSvg g-aiAbs g-aiPointText" style="top:15.5853%;margin-top:-8.1px;left:22.785%;width:59px;">
+			<p class="g-pstyle4">3,000+</p>
+		</div>
+		<div id="g-ai0-9" class="g-exportSvg g-aiAbs g-aiPointText" style="top:15.5853%;margin-top:-8.1px;left:12.0375%;width:64px;">
+			<p class="g-pstyle2">comedy</p>
+		</div>
+		<div id="g-ai0-10" class="g-exportSvg g-aiAbs g-aiPointText" style="top:18.7619%;margin-top:-8.1px;left:22.785%;width:59px;">
+			<p class="g-pstyle4">3,000+</p>
+		</div>
+		<div id="g-ai0-11" class="g-exportSvg g-aiAbs g-aiPointText" style="top:18.7619%;margin-top:-8.1px;left:16.035%;width:45px;">
+			<p class="g-pstyle2">Sick</p>
+		</div>
+		<div id="g-ai0-12" class="g-exportSvg g-aiAbs g-aiPointText" style="top:21.9384%;margin-top:-8.1px;left:22.785%;width:59px;">
+			<p class="g-pstyle4">3,000+</p>
+		</div>
+		<div id="g-ai0-13" class="g-exportSvg g-aiAbs g-aiPointText" style="top:21.9384%;margin-top:-8.1px;left:15.7566%;width:46px;">
+			<p class="g-pstyle2">Pain</p>
+		</div>
+		<div id="g-ai0-14" class="g-exportSvg g-aiAbs g-aiPointText" style="top:25.115%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">2,531</p>
+		</div>
+		<div id="g-ai0-15" class="g-exportSvg g-aiAbs g-aiPointText" style="top:25.115%;margin-top:-8.1px;left:12.1756%;width:63px;">
+			<p class="g-pstyle2">Political</p>
+		</div>
+		<div id="g-ai0-16" class="g-exportSvg g-aiAbs g-aiPointText" style="top:28.2915%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">2,073</p>
+		</div>
+		<div id="g-ai0-17" class="g-exportSvg g-aiAbs g-aiPointText" style="top:28.2915%;margin-top:-8.1px;left:16.4466%;width:43px;">
+			<p class="g-pstyle2">Fun</p>
+		</div>
+		<div id="g-ai0-18" class="g-exportSvg g-aiAbs g-aiPointText" style="top:31.4681%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">1,996</p>
+		</div>
+		<div id="g-ai0-19" class="g-exportSvg g-aiAbs g-aiPointText" style="top:31.4681%;margin-top:-8.1px;left:13.6477%;width:56px;">
+			<p class="g-pstyle2">Trump</p>
+		</div>
+		<div id="g-ai0-20" class="g-exportSvg g-aiAbs g-aiPointText" style="top:34.6447%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">1,923</p>
+		</div>
+		<div id="g-ai0-21" class="g-exportSvg g-aiAbs g-aiPointText" style="top:34.6447%;margin-top:-8.1px;left:15.9902%;width:45px;">
+			<p class="g-pstyle2">Troll</p>
+		</div>
+		<div id="g-ai0-22" class="g-exportSvg g-aiAbs g-aiPointText" style="top:37.8212%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">1,395</p>
+		</div>
+		<div id="g-ai0-23" class="g-exportSvg g-aiAbs g-aiPointText" style="top:37.8212%;margin-top:-8.1px;left:14.3777%;width:53px;">
+			<p class="g-pstyle2">Biden</p>
+		</div>
+		<div id="g-ai0-24" class="g-exportSvg g-aiAbs g-aiPointText" style="top:40.9978%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">1,353</p>
+		</div>
+		<div id="g-ai0-25" class="g-exportSvg g-aiAbs g-aiPointText" style="top:40.9978%;margin-top:-8.1px;left:14.5181%;width:52px;">
+			<p class="g-pstyle2">Great</p>
+		</div>
+		<div id="g-ai0-26" class="g-exportSvg g-aiAbs g-aiPointText" style="top:44.1743%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">1,212</p>
+		</div>
+		<div id="g-ai0-27" class="g-exportSvg g-aiAbs g-aiPointText" style="top:44.1743%;margin-top:-8.1px;left:14.1053%;width:54px;">
+			<p class="g-pstyle2">Never</p>
+		</div>
+		<div id="g-ai0-28" class="g-exportSvg g-aiAbs g-aiPointText" style="top:47.3509%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">1,194</p>
+		</div>
+		<div id="g-ai0-29" class="g-exportSvg g-aiAbs g-aiPointText" style="top:47.3509%;margin-top:-8.1px;left:15.4817%;width:47px;">
+			<p class="g-pstyle2">Hate</p>
+		</div>
+		<div id="g-ai0-30" class="g-exportSvg g-aiAbs g-aiPointText" style="top:50.5274%;margin-top:-8.1px;left:22.785%;width:52px;">
+			<p class="g-pstyle4">1,073</p>
+		</div>
+		<div id="g-ai0-31" class="g-exportSvg g-aiAbs g-aiPointText" style="top:50.5274%;margin-top:-8.1px;left:13.828%;width:55px;">
+			<p class="g-pstyle2">Funny</p>
+		</div>
+		<div id="g-ai0-32" class="g-exportSvg g-aiAbs g-aiPointText" style="top:53.704%;margin-top:-8.1px;left:22.785%;width:42px;">
+			<p class="g-pstyle4">909</p>
+		</div>
+		<div id="g-ai0-33" class="g-exportSvg g-aiAbs g-aiPointText" style="top:53.704%;margin-top:-8.1px;left:11.0689%;width:69px;">
+			<p class="g-pstyle2">Amazing</p>
+		</div>
+		<div id="g-ai0-34" class="g-exportSvg g-aiAbs g-aiPointText" style="top:56.8805%;margin-top:-8.1px;left:22.785%;width:42px;">
+			<p class="g-pstyle4">831</p>
+		</div>
+		<div id="g-ai0-35" class="g-exportSvg g-aiAbs g-aiPointText" style="top:56.8805%;margin-top:-8.1px;left:13.5544%;width:57px;">
+			<p class="g-pstyle2">Clever</p>
+		</div>
+		<div id="g-ai0-36" class="g-exportSvg g-aiAbs g-aiPointText" style="top:60.0571%;margin-top:-8.1px;left:22.785%;width:42px;">
+			<p class="g-pstyle4">539</p>
+		</div>
+		<div id="g-ai0-37" class="g-exportSvg g-aiAbs g-aiPointText" style="top:60.0571%;margin-top:-8.1px;left:9.4638%;width:76px;">
+			<p class="g-pstyle2">Wonderful</p>
+		</div>
+		<div id="g-ai0-38" class="g-exportSvg g-aiAbs g-aiPointText" style="top:63.2336%;margin-top:-8.1px;left:22.785%;width:42px;">
+			<p class="g-pstyle4">316</p>
+		</div>
+		<div id="g-ai0-39" class="g-exportSvg g-aiAbs g-aiPointText" style="top:63.2336%;margin-top:-8.1px;left:9.281%;width:77px;">
+			<p class="g-pstyle2">Not Funny</p>
+		</div>
+		<div id="g-ai0-40" class="g-exportSvg g-aiAbs g-aiPointText" style="top:66.4102%;margin-top:-8.1px;left:27.692%;width:42px;">
+			<p class="g-pstyle4">215</p>
+		</div>
+		<div id="g-ai0-41" class="g-exportSvg g-aiAbs g-aiPointText" style="top:66.4102%;margin-top:-8.1px;left:17.2747%;width:39px;">
+			<p class="g-pstyle2">PC</p>
+		</div>
+		<div id="g-ai0-42" class="g-exportSvg g-aiAbs g-aiPointText" style="top:69.5868%;margin-top:-8.1px;left:27.4886%;width:42px;">
+			<p class="g-pstyle4">206</p>
+		</div>
+		<div id="g-ai0-43" class="g-exportSvg g-aiAbs g-aiPointText" style="top:69.5868%;margin-top:-8.1px;left:6.108%;width:93px;">
+			<p class="g-pstyle2">Inappropriate</p>
+		</div>
+		<div id="g-ai0-44" class="g-exportSvg g-aiAbs g-aiPointText" style="top:72.7633%;margin-top:-8.1px;left:25.8228%;width:42px;">
+			<p class="g-pstyle4">133</p>
+		</div>
+		<div id="g-ai0-45" class="g-exportSvg g-aiAbs g-aiPointText" style="top:72.7633%;margin-top:-8.1px;left:8.4541%;width:81px;">
+			<p class="g-pstyle2">Derogatory</p>
+		</div>
+		<div id="g-ai0-46" class="g-exportSvg g-aiAbs g-aiPointText" style="top:75.9399%;margin-top:-8.1px;left:25.6388%;width:42px;">
+			<p class="g-pstyle4">125</p>
+		</div>
+		<div id="g-ai0-47" class="g-exportSvg g-aiAbs g-aiPointText" style="top:75.9399%;margin-top:-8.1px;left:12.5896%;width:61px;">
+			<p class="g-pstyle2">Terrible</p>
+		</div>
+		<div id="g-ai0-48" class="g-exportSvg g-aiAbs g-aiPointText" style="top:79.1164%;margin-top:-8.1px;left:25.6388%;width:42px;">
+			<p class="g-pstyle4">125</p>
+		</div>
+		<div id="g-ai0-49" class="g-exportSvg g-aiAbs g-aiPointText" style="top:79.1164%;margin-top:-8.1px;left:15.2069%;width:49px;">
+			<p class="g-pstyle2">Suck</p>
+		</div>
+		<div id="g-ai0-50" class="g-exportSvg g-aiAbs g-aiPointText" style="top:82.293%;margin-top:-8.1px;left:24.9318%;width:35px;">
+			<p class="g-pstyle4">94</p>
+		</div>
+		<div id="g-ai0-51" class="g-exportSvg g-aiAbs g-aiPointText" style="top:82.293%;margin-top:-8.1px;left:1.5681%;width:115px;">
+			<p class="g-pstyle2">Politically Correct</p>
+		</div>
+		<div id="g-ai0-52" class="g-exportSvg g-aiAbs g-aiPointText" style="top:85.4695%;margin-top:-8.1px;left:24.3152%;width:35px;">
+			<p class="g-pstyle4">67</p>
+		</div>
+		<div id="g-ai0-53" class="g-exportSvg g-aiAbs g-aiPointText" style="top:85.4695%;margin-top:-8.1px;left:11.0739%;width:69px;">
+			<p class="g-pstyle2">Hilarious</p>
+		</div>
+		<div id="g-ai0-54" class="g-exportSvg g-aiAbs g-aiPointText" style="top:88.6461%;margin-top:-8.1px;left:23.676%;width:35px;">
+			<p class="g-pstyle4">39</p>
+		</div>
+		<div id="g-ai0-55" class="g-exportSvg g-aiAbs g-aiPointText" style="top:88.6461%;margin-top:-8.1px;left:4.3199%;width:101px;">
+			<p class="g-pstyle2">Cancel Culture</p>
+		</div>
+		<div id="g-ai0-56" class="g-exportSvg g-aiAbs g-aiPointText" style="top:91.8226%;margin-top:-8.1px;left:23.266%;width:35px;">
+			<p class="g-pstyle4">21</p>
+		</div>
+		<div id="g-ai0-57" class="g-exportSvg g-aiAbs g-aiPointText" style="top:91.8226%;margin-top:-8.1px;left:10.2906%;width:72px;">
+			<p class="g-pstyle2">Offensive</p>
+		</div>
+		<div id="g-ai0-58" class="g-exportSvg g-aiAbs g-aiPointText" style="top:94.9992%;margin-top:-8.1px;left:22.9012%;width:29px;">
+			<p class="g-pstyle4">5</p>
+		</div>
+		<div id="g-ai0-59" class="g-exportSvg g-aiAbs g-aiPointText" style="top:94.9992%;margin-top:-8.1px;left:10.3838%;width:72px;">
+			<p class="g-pstyle2">Irrelevant</p>
+		</div>
+		<div id="g-ai0-60" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:9.7258%;width:70px;">
+			<p class="g-pstyle5">Tory Lysik</p>
+		</div>
+		<div id="g-ai0-61" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:20.2165%;width:26px;">
+			<p class="g-pstyle6">&bull;</p>
+		</div>
+		<div id="g-ai0-62" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:34.3526%;width:85px;">
+			<p class="g-pstyle5">Datawrapper</p>
+		</div>
+		<div id="g-ai0-63" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:21.3127%;width:84px;">
+			<p class="g-pstyle5">Created with</p>
+		</div>
+		<div id="g-ai0-64" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:21.4362%;width:25px;">
+			<p class="g-pstyle7"> </p>
+		</div>
+		<div id="g-ai0-65" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:21.4362%;width:22px;">
+			<p class="g-pstyle8">​</p>
+		</div>
+		<div id="g-ai0-66" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:22.0766%;width:22px;">
+			<p class="g-pstyle8">​</p>
+		</div>
+		<div id="g-ai0-67" class="g-exportSvg g-aiAbs g-aiPointText" style="top:98.0127%;margin-top:-7.5px;left:3.5268%;width:52px;">
+			<p class="g-pstyle5">Chart:</p>
+		</div>
+	</div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</div>
 
-### Jekyll Themes
+<!-- End ai2html - 2022-07-25 13:28 -->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/torythetortle/SNL-Thing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **<b>Conclusion**<b>
+SNL is the show your grandparents watched and your parents told you not to. Even though we like to say it had its greatest seasons, the data says otherwise.  We may not have our Samberg's or our Poehlers now but it is not like ratings will change without them. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### _This was dedicated to Kate McKinnon. Bless Her Soul._ 
+</html>
