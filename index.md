@@ -1,7 +1,7 @@
 <html>
 # Your Grandpa's SNL Still Exists. Ok, Boomer. 
 
-	<h1>By Tory Lysik</h1>  
+## By Tory Lysik   
 
 #Your Grandpa's SNL Still Exists. _Ok, Boomer._
 
