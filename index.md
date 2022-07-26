@@ -11,6 +11,7 @@ My thing was SNL. While I do not remember the exact jokes, I can remember iconic
 SNL has changed since those years, but not in ways one might expect. 
 
 ### Skits
+	
 <body> It is common lore that Andy Samberg created Digital Shorts on SNL. The show started having the sort of MTV music videos that his Lonely Island crew formerly created on YouTube. 
 But when Samberg joined the cast in 2005, he did not create a genre, he changed an old one. 
 The show has always had pre-recorded videos, just not blatant music videos. Before Samberg, there were other pre-recorded shorts otherwise known as “commercials” that existed since the first season. These commercials were not music based but instead made fun of the ads you would normally see on television. While these two types of shorts could be seen as different genres, they have too many similarities not to. 
@@ -22,6 +23,7 @@ Data shows he in fact popularized the digital shorts. Ratings were significantly
 </script>
 
 ### Overall
+	
 SNL’s ratings have overall not changed. It is common lore that the show has gotten worse with time, but it has not when looking at reviews. 
 This data leads to a few points…
 The average rating, no matter what age, was six. 
@@ -31,6 +33,7 @@ Six is an average across these numbers no matter what you look at. This is lower
 <iframe title="Average Rating For SNL Seasons" aria-label="Table" id="datawrapper-chart-nJYcU" src="https://datawrapper.dwcdn.net/nJYcU/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1769"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
+	
 ### Words and Phrases
 
 <body> Out of the over 48,000 SNL reviews on IMDB, there were some words used more consistently over others.
@@ -344,9 +347,12 @@ All of the top words are cynical and more so emotive. These words are also focus
 
 <!-- End ai2html - 2022-07-25 13:28 -->
 
+	
 ### Conclusion
+	
 <body> SNL is the show your grandparents watched and your parents told you not to. Even though we like to say it had its greatest seasons, the data says otherwise.  We may not have our Samberg's or our Poehlers now but it is not like ratings will change without them. 
 
+	
 
 ### _This was dedicated to Kate McKinnon. Bless Her Soul._ 
 </html>
